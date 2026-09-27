@@ -1,0 +1,9 @@
+{
+  "name": "powerpicker",
+  "displayName": "PowerPicker",
+  "version": "0.1.0",
+  "description": "Compare Australian electricity plans and solar feed-in tariffs from the government's daily plan data, priced for your own usage.",
+  "author": { "name": "PowerPicker", "url": "https://powerpicker.com.au" },
+  "homepage": "https://powerpicker.com.au",
+  "license": "MIT"
+}

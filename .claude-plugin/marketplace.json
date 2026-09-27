@@ -1,0 +1,12 @@
+{
+  "name": "powerpicker",
+  "description": "Compare Australian electricity plans and solar feed-in tariffs in Claude.",
+  "owner": { "name": "PowerPicker", "url": "https://powerpicker.com.au" },
+  "plugins": [
+    {
+      "name": "powerpicker",
+      "source": "./plugins/powerpicker",
+      "description": "Rank every current Australian electricity plan for your postcode and usage, or upload a bill to see how much you could save."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "powerpicker": {
+      "type": "http",
+      "url": "https://powerpicker.com.au/api/mcp"
+    }
+  }
+}
